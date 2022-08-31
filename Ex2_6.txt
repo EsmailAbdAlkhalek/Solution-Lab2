@@ -1,0 +1,9 @@
+(10)  .a 
+
+b.   (e)
+
+c. (llo)
+
+d. (HelloWorld)
+
+e. (WorldHello)
